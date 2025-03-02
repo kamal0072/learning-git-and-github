@@ -9,3 +9,5 @@ let c = 30;
 let d = 40;
 console.log(c-d);
 console.log("Hello Script Tag")
+console.log("Hello Script Tag-1")
+console.log("Hello Script Tag-2")
